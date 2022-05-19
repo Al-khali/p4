@@ -9,4 +9,3 @@ les fonction utile au projets sont dans le fichié utility.py
 les graphique générer par le code sont dans le dossier graph
 
 les slide du projets sont dans le fichier P4_02_Slide.pdf
-# p4
